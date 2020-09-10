@@ -1,8 +1,2 @@
 # Autom
-Bootstrap admin dashboard template for Resettlement Tracking and Analytics
-
-
-
-### Changelog
-#### V 1.0.0
-Initial Release
+Bootstrap admin dashboard template
