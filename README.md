@@ -1,2 +1,2 @@
-# Autom
+# Template
 Bootstrap admin dashboard template
